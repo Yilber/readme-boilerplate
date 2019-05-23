@@ -1,4 +1,5 @@
 ## Badges list
+
 > Badges are generated with [shields.io](https://shields.io/)
 
 * Build
@@ -26,7 +27,7 @@
   * [![Browserstack Status](https://img.shields.io/badge/Browserstack-completed-success.svg)](example.com)
 * Sponsors
   * <a href="https://www.buymeacoffee.com/yilber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
-  * <a href="https://www.patreon.com/bePatron?u=17267732" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+  * <a href="https://www.patreon.com/bePatron?u=17267732" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="37" alt="Become a patreon" style="height: auto !important;width: auto !important;"></a>
   * ![open collective backers](https://img.shields.io/opencollective/backers/vuejs.svg) ![open collective sponsors](https://img.shields.io/opencollective/sponsors/vuejs.svg)
   * [![Backers on Open Collective](https://img.shields.io/badge/backer-OpenCollective-7289da.svg)](example.com)
   [![Sponsors on Open Collective](https://img.shields.io/badge/sponsor-OpenCollective-7289da.svg)](example.com)
@@ -37,4 +38,3 @@
 * Chat
   * [![Discord chat](https://img.shields.io/badge/chat-discord-7289da.svg)](example.com)
   * [![Slack chat](https://img.shields.io/badge/chat-slack-%23E01563.svg)](example.com)
-
