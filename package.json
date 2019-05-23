@@ -1,0 +1,23 @@
+{
+  "name": "readme-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for creating github compatible readme files",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yilber/readme-boilerplate.git"
+  },
+  "keywords": [
+    "readme-boilerplate",
+    "readme-template"
+  ],
+  "author": "Yilber Mejia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yilber/readme-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Yilber/readme-boilerplate#readme"
+}
