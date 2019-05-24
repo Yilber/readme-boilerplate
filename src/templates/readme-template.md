@@ -192,11 +192,11 @@ List of things to fix or add
 
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/vuejs/vue/releases).
+Detailed changes for each release are documented in the [release notes](example.com).
 
 ## Issues
 
-Please make sure to read the [Issue Reporting Checklist](https://github.com/vuejs/vue/blob/dev/.github/CONTRIBUTING.md#issue-reporting-guidelines) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
+Please make sure to read the [Issue Reporting Checklist](https://example.com/contributing.md#issues) before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 ## Bugs
 

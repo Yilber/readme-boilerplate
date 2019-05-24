@@ -1,7 +1,9 @@
-# readme-boilerplate
+# Readme Boilerplate
 
 [![GitHub version](https://img.shields.io/github/package-json/v/yilber/readme-boilerplate.svg)](https://github.com/yilber/readme-boilerplate)
-[![GitHub](https://img.shields.io/github/license/yilber/readme-generator.svg)](https://github.com/Yilber/readme-generator/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/yilber/readme-boilerplate.svg)](https://github.com/Yilber/readme-boilerplate/blob/master/LICENSE)
+[![Backers on Patreon](https://img.shields.io/badge/backer-Patreon-orange.svg)](https://www.patreon.com/yilber)
+[![Backers on Paypal](https://img.shields.io/badge/backer-Paypal-blue.svg)](https://www.paypal.me/Yilber)
 
 Boilerplate for creating github compatible readme files
 
@@ -24,15 +26,12 @@ $ cd readme-boilerplate
 readme-boilerplate
 ├── src
 │   ├── images
-│   │   ├── logo.png
 │   │   └── screenshot.png
 │   ├── templates
-│   │   ├── emojis.md
 │   │   ├── header-advanced.md
-│   │   ├── header-badges.md
-│   │   └── header-simple.md
+│   │   ├── header-simple.md
+│   │   └── readme-template.md
 ├── LICENSE
-├── package.json
 └── README.md
 ```
 
