@@ -27,8 +27,6 @@
 
 ## Table of Contents
 
-<!-- MarkdownTOC -->
-
 * [Background / Overview](#background--overview)
 * [Features](#features)
 * [Prerequisites](#prerequisites)
@@ -39,6 +37,7 @@
   * [Compiles and minifies for production](#compiles-and-minifies-for-production)
   * [Lints and fixes files](#lints-and-fixes-files)
   * [Run your unit tests](#run-your-unit-tests)
+  * [Run your end-to-end tests](#run-your-end-to-end-tests)
 * [Documentation](#documentation)
 * [Browser Support](#browser-support)
 * [Dependencies](#dependencies)
@@ -55,8 +54,14 @@
 * [Support](#support)
 * [License](#license)
 
-<!-- /MarkdownTOC -->
+<strong>Note:</strong> This section was generated with markdown-toc.
 
+```sh
+# installs markdown-toc globally
+$ npm i -g markdown-toc
+# prints out the table of contents
+$ markdown-toc --bullets '*' readme.md
+```
 ## Background / Overview
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus rem, numquam sint vitae voluptate consequatur, expedita doloribus totam laboriosam recusandae quod mollitia dolores quas? Similique assumenda eum quia culpa magni!
@@ -108,6 +113,15 @@ src
     └── theme.scss
 ```
 
+<strong>Note:</strong> The scaffolding was generated with tree-node-cli.
+
+```sh
+# installs tree-node-cli globally
+$ npm i -g tree-node-cli
+# prints out the folders content
+$ tree --dirs-first -a -I 'node_modules|.git'
+```
+
 ### How to start the server for development
 
 Starting the server will compile everything and use hot-reloads to autocompile and refresh the browser whenever changes are made.
@@ -130,16 +144,14 @@ $ npm run lint
 
 ### Run your unit tests
 
-Explain how to run the automated tests for this system
-
 ```sh
 $ npm run test:unit
 ```
 
-Explain what these tests test and why
+### Run your end-to-end tests
 
 ```sh
-$ npm run test:xyz
+$ npm run test:e2e
 ```
 
 ## Documentation
