@@ -1,6 +1,6 @@
 # Readme Boilerplate
 
-[![GitHub version](https://img.shields.io/github/package-json/v/yilber/readme-boilerplate.svg)](https://github.com/yilber/readme-boilerplate)
+[![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/yilber/readme-boilerplate)
 [![License](https://img.shields.io/github/license/yilber/readme-boilerplate.svg)](https://github.com/Yilber/readme-boilerplate/blob/master/LICENSE)
 [![Backers on Patreon](https://img.shields.io/badge/backer-Patreon-orange.svg)](https://www.patreon.com/yilber)
 [![Backers on Paypal](https://img.shields.io/badge/backer-Paypal-blue.svg)](https://www.paypal.me/Yilber)
@@ -48,9 +48,9 @@ If you have questions, feature requests or a bug you want to report, please clic
 Like what you see? Keep me awake at night by buying me a coffee or two.
 
 <a href="https://www.buymeacoffee.com/yilber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;"></a>
-
+<a href="https://www.patreon.com/bePatron?u=17267732" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" height="37" alt="Become a patreon" style="height: auto !important;width: auto !important;"></a>
 ## License
 
 Copyright (c) 2019 Yilber Mejia.
 
-Usage is provided under the [MIT License](http://http//opensource.org/licenses/mit-license.php). See [LICENSE](https://github.com/Yilber/readme-generator/blob/master/LICENSE) for the full details.
+Usage is provided under the MIT License. See [LICENSE](https://github.com/Yilber/readme-boilerplate/blob/master/LICENSE) for the full details.
