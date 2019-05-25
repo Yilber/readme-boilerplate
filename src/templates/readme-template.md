@@ -1,43 +1,10 @@
-<h1 align="center">
-  <a href="https://github.com/yilber/readme-boilerplate" target="_blank" rel="noopener noreferrer">
-    <img src="../images/logo.png" alt="logo" height="100">
-  </a>
-  <br>
-  Project Name
-  <br>
-</h1>
-
-<h4 align="center">Project's description on the package.json file</h4>
-
-<p align="center">
-  <a href="http://www.example.com"><strong>Website</strong></a> | <a href="http://www.example.com"><strong>Documentation</strong></a> | <a href="http://www.example.com"><strong>Download</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yilber/readme-boilerplate"><img src="https://img.shields.io/github/package-json/v/yilber/readme-boilerplate.svg" alt="Version"></a>
-  <a href="https://www.npmjs.com/package/project-name"><img src="https://img.shields.io/npm/v/project-name.svg" alt="NPM version"></a>
-  <img src="https://img.shields.io/badge/devDependencies-up%20to%20date-success.svg" alt="Dependencies Status">
-  <img src="https://img.shields.io/badge/devDependencies-up%20to%20date-success.svg" alt="devDependency Status">
-  <a href="https://github.com/Yilber/readme-generator/blob/master/LICENSE"><img src="https://img.shields.io/github/license/yilber/readme-generator.svg" alt="License"></a>
-</p>
-
-<p align="center">
-  <img src="../images/screenshot.png" alt="screenshot">
-</p>
-
 ## Table of Contents
 
 * [Background / Overview](#background--overview)
 * [Features](#features)
 * [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Project setup](#project-setup)
+  * [Installation](#installation)
   * [Structure / Scaffolding](#structure--scaffolding)
-  * [How to start the server for development](#how-to-start-the-server-for-development)
-  * [Compiles and minifies for production](#compiles-and-minifies-for-production)
-  * [Lints and fixes files](#lints-and-fixes-files)
-  * [Run your unit tests](#run-your-unit-tests)
-  * [Run your end-to-end tests](#run-your-end-to-end-tests)
 * [Documentation](#documentation)
 * [Browser Support](#browser-support)
 * [Dependencies](#dependencies)
@@ -83,7 +50,7 @@ You will need the following installed on your computer.
 * [Node.js](https://nodejs.org/)
 * [XYZ](https://www.example.com/)
 
-## Installation
+### Installation
 
 Open your terminal and type in
 
@@ -97,8 +64,6 @@ Install all the packages
 ```sh
 $ npm install
 ```
-
-## Project setup
 
 ### Structure / Scaffolding
 
@@ -120,38 +85,6 @@ src
 $ npm i -g tree-node-cli
 # prints out the folders content
 $ tree --dirs-first -a -I 'node_modules|.git'
-```
-
-### How to start the server for development
-
-Starting the server will compile everything and use hot-reloads to autocompile and refresh the browser whenever changes are made.
-
-```sh
-$ npm run dev
-```
-
-### Compiles and minifies for production
-
-```sh
-$ npm run build
-```
-
-### Lints and fixes files
-
-```sh
-$ npm run lint
-```
-
-### Run your unit tests
-
-```sh
-$ npm run test:unit
-```
-
-### Run your end-to-end tests
-
-```sh
-$ npm run test:e2e
 ```
 
 ## Documentation

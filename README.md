@@ -25,15 +25,21 @@ $ cd readme-boilerplate
 ```text
 readme-boilerplate
 ├── src
-│   ├── images
-│   │   └── screenshot.png
-│   ├── templates
-│   │   ├── header-advanced.md
-│   │   ├── header-simple.md
-│   │   └── readme-template.md
+│   └── templates
+│       ├── header-advanced.md
+│       ├── header-simple.md
+│       └── readme-template.md
 ├── LICENSE
 └── README.md
 ```
+
+## How to use
+
+* Create a README.md file.
+* Pick a header from the templates folder and copy its content onto the README.md file.
+* Update the URLs and add/remove any necessary badge.
+* Copy and paste the content from the readme-template.md onto the README.md file.
+* Add/remove necessary sections and update all URLs.
 
 ## Bugs
 

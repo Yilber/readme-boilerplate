@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="../images/screenshot.png" alt="screenshot">
+  <img src="https://via.placeholder.com/720x535.png?text=app+screenshot" alt="screenshot">
 </p>
